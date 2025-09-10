@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_name">Matushkin Alexey</string>
+    <string name="email">email@example.com</string>
+    <string name="social_handle">@android_dev</string>
+    <string name="phone_number">+7 (123) 456–78–90</string>
+    <string name="my_prof">Android Developer Extraordinaire</string>
+</resources>
